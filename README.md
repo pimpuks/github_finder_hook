@@ -1,4 +1,4 @@
-## Github Finder React App
+## Github Finder React App with Hooks and Context
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
